@@ -1,0 +1,17 @@
+.homePage__title {
+    color: red;
+}
+.homePage__container { 
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background-color: #88888891;
+    padding: 20px;
+    border-radius: 20px;
+    width: 80%;
+    height: 80%;
+    max-width: 550px;
+   
+}
